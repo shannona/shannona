@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**shannona/shannona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ShannonA's github stats](https://github-readme-stats.vercel.app/api?username=shannona)](https://github.com/shannona/github-readme-stats)
 
 Here are some ideas to get you started:
 
