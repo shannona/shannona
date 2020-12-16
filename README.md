@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![ShannonA's github stats](https://github-readme-stats.vercel.app/api?username=shannona)](https://github.com/shannona/github-readme-stats)
 
 - 🔭 I’m currently working on projects for [Blockchain Commons](https://github.com/BlockchainCommons) and [Bitmark](https://github.com/bitmark-inc)
